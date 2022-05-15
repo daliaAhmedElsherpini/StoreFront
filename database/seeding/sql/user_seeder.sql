@@ -1,0 +1,1 @@
+INSERT INTO users (name , email , phone , password , city_id , country_id ) VALUES ('dalia' ,'daliaahmed@gmail.com' , '756554564' , '$2b$10$ZbZZb/7ZXrEw1/Vtg9PtuerEialiLZ6sUttxq6mfdQ1.cyJ0Nw.2.' , 1 , 1 );
